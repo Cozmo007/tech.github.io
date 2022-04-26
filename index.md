@@ -1,6 +1,6 @@
 # Tech
 
-Olá Amigos!
+<strong>Olá Amigos!</strong>
 
 Pagina Principal:
 
