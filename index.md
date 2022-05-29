@@ -2,6 +2,4 @@
 
 <strong>Hello Friends!</strong>
 
-Home Page:
-
-<strong>https://github.com/Cozmo007/</strong>
+<a href="https://github.com/Cozmo007/">Home PageCozmo007</a>
