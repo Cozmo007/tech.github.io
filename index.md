@@ -1,7 +1,7 @@
 # Tech
 
-<strong>Olá Amigos!</strong>
+<strong>Hello Friends!</strong>
 
-Pagina Principal:
+Home Page:
 
 <strong>https://github.com/Cozmo007/</strong>
